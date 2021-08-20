@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ## My Wakatime Stats ⌚
 
-[![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh)](https://github.com/Ohgyuchan/github-readme-stats)
+[![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TermanOh)](https://github.com/Ohgyuchan/github-readme-stats)
 
 <!--END_SECTION:waka-->
 
