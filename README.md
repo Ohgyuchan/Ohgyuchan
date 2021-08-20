@@ -1,4 +1,7 @@
 ### Hi there 👋
+  * 배워서 남주기 연습중이에오
+  * 아직 줄 게 없어오
+
 ## Tech Stack
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
