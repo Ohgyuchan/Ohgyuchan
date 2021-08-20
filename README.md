@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)  
+<p align="center">[![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)&nbsp </p>
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)&nbsp </p>
 <!--START_SECTION:waka-->
 ## My Wakatime Stats ⌚
 
