@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black"></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
+## Stats
 [![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
 
 [![Terman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TermanOh)](https://github.com/anuraghazra/github-readme-stats)
