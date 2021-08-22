@@ -19,7 +19,6 @@ Here are some ideas to get you started:
   * 배워서 남주기 연습중이에오
   * 아직 줄 게 없어오
 
-## Tech Stack
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
@@ -37,7 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black"></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-## Stats
+<h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
 [![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
 
 [![Terman's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TermanOh)](https://github.com/anuraghazra/github-readme-stats)
