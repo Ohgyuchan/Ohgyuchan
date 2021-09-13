@@ -48,13 +48,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72242%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-72486%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
-🌆 Daytime    342 commits    ████████░░░░░░░░░░░░░░░░░   33.63% 
+🌞 Morning    91 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95% 
+🌆 Daytime    343 commits    ████████░░░░░░░░░░░░░░░░░   33.73% 
 🌃 Evening    284 commits    ███████░░░░░░░░░░░░░░░░░░   27.93% 
 🌙 Night      299 commits    ███████░░░░░░░░░░░░░░░░░░   29.4%
 
@@ -82,7 +82,7 @@ Mac                      13 hrs 45 mins      ███████████�
 ```
 
 
- Last Updated on 12/09/2021
+ Last Updated on 13/09/2021
 <!--END_SECTION:waka-->
 
 
