@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60214%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60211%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -68,22 +68,22 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      6 hrs 7 mins        ██████████████████░░░░░░░   73.65% 
-Dart                     1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   22.51% 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35% 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.42% 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+Dart                     1 hr 52 mins        █████████████████████░░░░   85.33% 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.12%
 
 🔥 Editors: 
-VS Code                  8 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      8 hrs 19 mins       █████████████████████████   100.0%
+Mac                      2 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 25/09/2021
+ Last Updated on 26/09/2021
 <!--END_SECTION:waka-->
 
 
