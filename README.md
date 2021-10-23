@@ -49,15 +49,15 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64933%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64914%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
+🌞 Morning    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
 🌆 Daytime    330 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
 🌃 Evening    308 commits    ███████░░░░░░░░░░░░░░░░░░   29.64% 
-🌙 Night      314 commits    ███████░░░░░░░░░░░░░░░░░░   30.22%
+🌙 Night      316 commits    ███████░░░░░░░░░░░░░░░░░░   30.41%
 
 ```
 
@@ -68,19 +68,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C++                      4 hrs 49 mins       ███████████████████░░░░░░   77.03% 
-C                        1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   22.97%
+C++                      4 hrs 20 mins       ██████████████████░░░░░░░   75.1% 
+C                        1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.9%
 
 🔥 Editors: 
-VS Code                  6 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  5 hrs 46 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 15 mins       █████████████████████████   100.0%
+Mac                      5 hrs 46 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 22/10/2021
+ Last Updated on 23/10/2021
 <!--END_SECTION:waka-->
 
 
