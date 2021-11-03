@@ -49,38 +49,28 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-64914%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
-**I'm a Night 🦉** 
+![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-65032%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
-```text
-🌞 Morning    85 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-🌆 Daytime    330 commits    ████████░░░░░░░░░░░░░░░░░   31.76% 
-🌃 Evening    308 commits    ███████░░░░░░░░░░░░░░░░░░   29.64% 
-🌙 Night      316 commits    ███████░░░░░░░░░░░░░░░░░░   30.41%
+**🐱 저의 Github 정보에요.** 
 
-```
+> 🏆 1,860 만큼의 Contributions을 2021년에 했어요
+ > 
+> 📦 Github의 177.1 kB만큼의 저장소를 사용하고 있어요. 
+ > 
+> 🚫 구직중이지 않아요.
+ > 
+> 📜 49개의 Public Repository를 만들었어요. 
+ > 
+> 🔑 1개의 Private Repository를 만들었어요. 
+ > 
+**타임라인**
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-C++                      4 hrs 20 mins       ██████████████████░░░░░░░   75.1% 
-C                        1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.9%
-
-🔥 Editors: 
-VS Code                  5 hrs 46 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      5 hrs 46 mins       █████████████████████████   100.0%
-
-```
+![Chart not found](https://raw.githubusercontent.com/Ohgyuchan/Ohgyuchan/master/charts/bar_graph.png) 
 
 
- Last Updated on 23/10/2021
+ Last Updated on 03/11/2021
 <!--END_SECTION:waka-->
 
 
