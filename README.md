@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 1,882 만큼의 Contributions을 2021년에 했어요
+> 🏆 1,883 만큼의 Contributions을 2021년에 했어요
  > 
 > 📦 Github의 177.6 kB만큼의 저장소를 사용하고 있어요. 
  > 
