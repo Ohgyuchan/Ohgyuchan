@@ -49,11 +49,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-66391%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
-
 **🐱 저의 Github 정보에요.** 
 
-> 🏆 1,883 만큼의 Contributions을 2021년에 했어요
+> 🏆 1,894 만큼의 Contributions을 2021년에 했어요
  > 
 > 📦 Github의 177.6 kB만큼의 저장소를 사용하고 있어요. 
  > 
@@ -63,20 +61,8 @@ Here are some ideas to get you started:
  > 
 > 🔑 1개의 Private Repository를 만들었어요. 
  > 
-**저는 주로 Dart 언어를 사용해요.** 
 
-```text
-Dart                     16 repos            ████████████████░░░░░░░░░   66.67% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
 
 
