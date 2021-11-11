@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-**저는 주로 Dart 언어를 사용해요.** 
+**I Mostly Code in Dart** 
 
 ```text
 Dart                     16 repos            ████████████████░░░░░░░░░   66.67% 
