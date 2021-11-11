@@ -51,6 +51,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-66463%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
 
+**저는 주로 Dart 언어를 사용해요.** 
+
+```text
+Dart                     16 repos            ████████████████░░░░░░░░░   66.67% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+Objective-C              1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
 
  Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
