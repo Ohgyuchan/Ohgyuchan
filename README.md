@@ -49,6 +49,20 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-233-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,902 Contributions in the Year 2021
+ > 
+> 📦 177.6 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 50 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
 **I Mostly Code in Dart** 
 
 ```text
@@ -60,6 +74,10 @@ Objective-C              1 repo              █░░░░░░░░░░�
 
 ```
 
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/Ohgyuchan/Ohgyuchan/master/charts/bar_graph.png) 
 
 
  Last Updated on 12/11/2021
