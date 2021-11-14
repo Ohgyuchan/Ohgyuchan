@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-  * 한동대학교 17학번
   * 배워서 남주기 연습중이에오
   * 아직 줄 게 없어오
 
