@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
   * 배워서 남주기 연습중이에오
   * 아직은 줄 게 없어오
-  * VELOG(https://velog.io/@terman)
+  * [VELOG](https://velog.io/@terman)
 
 
 
