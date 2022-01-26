@@ -50,14 +50,14 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&count_private=true&show_icons=true&theme=buefy)](https://github.com/Ohgyuchan/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92787%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-92757%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    114 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.14% 
-🌆 Daytime    408 commits    ████████░░░░░░░░░░░░░░░░░   32.72% 
-🌃 Evening    456 commits    █████████░░░░░░░░░░░░░░░░   36.57% 
+🌆 Daytime    407 commits    ████████░░░░░░░░░░░░░░░░░   32.64% 
+🌃 Evening    457 commits    █████████░░░░░░░░░░░░░░░░   36.65% 
 🌙 Night      269 commits    █████░░░░░░░░░░░░░░░░░░░░   21.57%
 
 ```
@@ -115,7 +115,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2022
+ Last Updated on 26/01/2022
 <!--END_SECTION:waka-->
 
 
