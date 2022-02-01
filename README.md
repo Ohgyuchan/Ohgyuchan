@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/github-181717?style=flat-squar&logo=github&logoColor=white"></a> &nbsp 
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-squar&logo=linux&logoColor=black"></a> &nbsp 
+<img src="https://img.shields.io/badge/unity-00599C?style=flat-squar&logo=unity&logoColor=black"></a> &nbsp 
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> -->
 
 <h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
