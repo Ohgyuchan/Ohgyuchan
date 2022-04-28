@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
 
 
-[![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@TermanOh&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
