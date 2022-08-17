@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ohgyuchan&fontSize=80&animation=twinkling)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ohgyuchan&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ### Hi there 👋 -->
   * 배워서 남주기 연습중이에오
   * 아직은 줄 게 없어오
