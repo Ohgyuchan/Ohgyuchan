@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Ohgyuchan&fontSize=80&animation=twinkling)
+
 <!-- ### Hi there 👋 -->
   * 배워서 남주기 연습중이에오
   * 아직은 줄 게 없어오
@@ -46,7 +47,8 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
 
-<a href="https://opgc.me/#/users/Ohgyuchan" target="_blank"><img src="https://api.opgc.me/githubs/users/Ohgyuchan/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/Ohgyuchan" target="_blank"><img src="https://api.opgc.me/githubs/users/Ohgyuchan/tag/?theme=compact" /></a>
+
 [![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
