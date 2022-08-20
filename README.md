@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
 
-<a href="https://opgc.me/#/users/Ohgyuchan" target="_blank"><img src="https://api.opgc.me/githubs/users/Ohgyuchan/tag/?theme=basic" /></a>
+<a href="https://opgc.me/#/users/Ohgyuchan" target="_blank"><img src="https://api.opgc.me/githubs/users/Ohgyuchan/tag/?theme=rainbow" /></a>
 
 [![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
