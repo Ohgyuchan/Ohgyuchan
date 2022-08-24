@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 
 <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhgyuchan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors+%F0%9F%99%8C&edge_flat=false"/></a> <a href="https://wakatime.com/@9d35e6a9-2400-4e9b-b741-9597e6de1373"><img src="https://wakatime.com/badge/user/9d35e6a9-2400-4e9b-b741-9597e6de1373.svg" alt="Total time coded since Aug 8 2021" /></a></b>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOhgyuchan&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors+%F0%9F%99%8C&edge_flat=false"/></a> <a href="https://wakatime.com/@9d35e6a9-2400-4e9b-b741-9597e6de1373"><img src="https://wakatime.com/badge/user/9d35e6a9-2400-4e9b-b741-9597e6de1373.svg" alt="Total time coded since Aug 8 2021" /></a></p>
 
 
 <p align="center">
@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-0175C2?style=flat-square&logo=python&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/unity-FCC624?style=flat-square&logo=unity&logoColor=black"></a> 
-<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p> -->
-</b>
+<!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp -->
+</p></b>
 
 <h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
 
