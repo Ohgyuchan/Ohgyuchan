@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/python-0175C2?style=flat-square&logo=python&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a> 
-<img src="https://img.shields.io/badge/unity-FCC624?style=flat-square&logo=unity&logoColor=black"></a> 
+<!-- <img src="https://img.shields.io/badge/unity-FCC624?style=flat-square&logo=unity&logoColor=black"></a>  -->
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp -->
 </p></b>
 
