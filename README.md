@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&exclude_repo=unity_example&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -94,22 +94,22 @@ Sunday       159 commits    ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       ██████████████░░░░░░░░░░░   56.55% 
-Dart                     1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   38.3% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.17% 
-XML                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.92%
+Python                   2 hrs               ██████████████░░░░░░░░░░░   59.17% 
+Dart                     1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   38.43% 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.4% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  5 hrs 7 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 23 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-cs-study                 2 hrs 53 mins       ██████████████░░░░░░░░░░░   56.55% 
-before_after             1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   38.33% 
-flutter_flame_joystick_ex15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.12%
+cs-study                 2 hrs               ██████████████░░░░░░░░░░░   59.17% 
+before_after             1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   33.09% 
+flutter_flame_joystick_ex15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.74%
 
 💻 Operating System: 
-Mac                      5 hrs 7 mins        █████████████████████████   100.0%
+Mac                      3 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -126,7 +126,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2022 19:04:09 UTC
+ Last Updated on 04/11/2022 18:59:16 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
