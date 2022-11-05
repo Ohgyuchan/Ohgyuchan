@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&exclude_repo=unity_example&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -126,7 +126,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2022 18:59:16 UTC
+ Last Updated on 05/11/2022 19:00:42 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
