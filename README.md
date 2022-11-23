@@ -54,11 +54,9 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ohgyuchan)](https://git.io/streak-stats)
 
-[![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&include_all_commits=true&count_private=true&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&include_all_commits=true&count_private=true&theme=buefy)
 
-[![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohgyuchan&layout=compact&exclude_repo=unity_example&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%203%20mins-blue)
