@@ -126,4 +126,4 @@ JavaScript               2 repos             ░░░░░░░░░░░�
  Last Updated on 05/01/2023 18:53:03 UTC
 <!--END_SECTION:waka-->
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
