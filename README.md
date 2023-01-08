@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-898%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-901%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -92,21 +92,21 @@ Sunday       184 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     15 hrs 37 mins      ███████████████████░░░░░░   77.03% 
-JavaScript               3 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-YAML                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.76% 
-XML                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
+Dart                     13 hrs 35 mins      ██████████████████░░░░░░░   74.86% 
+JavaScript               3 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   19.37% 
+YAML                     29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7% 
+XML                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Editors: 
-VS Code                  20 hrs 16 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 9 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-pebbles                  20 hrs 9 mins       ████████████████████████░   99.44% 
-flutter                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+pebbles                  18 hrs 4 mins       █████████████████████████   99.55% 
+flutter                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
 
 💻 Operating System: 
-Mac                      20 hrs 16 mins      █████████████████████████   100.0%
+Mac                      18 hrs 9 mins       █████████████████████████   100.0%
 
 ```
 
@@ -123,7 +123,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 18:49:57 UTC
+ Last Updated on 08/01/2023 18:52:45 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
