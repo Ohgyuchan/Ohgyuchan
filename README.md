@@ -59,9 +59,57 @@ Here are some ideas to get you started:
 ![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-907%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+🌆 Daytime    583 commits    █████████░░░░░░░░░░░░░░░░   39.13% 
+🌃 Evening    580 commits    █████████░░░░░░░░░░░░░░░░   38.93% 
+🌙 Night      143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.6%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.56% 
+Tuesday      238 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
+Wednesday    263 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     286 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.19% 
+Friday       184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35% 
+Saturday     133 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.93% 
+Sunday       184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.35%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Dart                     17 hrs 55 mins      ████████████████████░░░░░   79.54% 
+JavaScript               3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.14% 
+YAML                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.36% 
+XML                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.11% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.4%
+
+🔥 Editors: 
+VS Code                  22 hrs 31 mins      █████████████████████████   100.0%
+
+🐱‍💻 Projects: 
+pebbles                  22 hrs 16 mins      ████████████████████████░   98.89% 
+odot                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.59% 
+flutter                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
+
+💻 Operating System: 
+Mac                      22 hrs 31 mins      █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Dart** 
 
@@ -76,7 +124,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2023 18:58:12 UTC
+ Last Updated on 10/01/2023 18:58:23 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
