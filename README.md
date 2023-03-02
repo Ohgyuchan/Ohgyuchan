@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-986%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -68,18 +68,18 @@ Here are some ideas to get you started:
 ```text
 🌞 Morning    167 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.94% 
 🌆 Daytime    534 commits    █████████░░░░░░░░░░░░░░░░   38.17% 
-🌃 Evening    585 commits    ██████████░░░░░░░░░░░░░░░   41.82% 
-🌙 Night      113 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
+🌃 Evening    580 commits    ██████████░░░░░░░░░░░░░░░   41.46% 
+🌙 Night      118 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       202 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
-Tuesday      236 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.87% 
-Wednesday    242 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Tuesday      234 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.73% 
+Wednesday    241 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.23% 
 Thursday     263 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
-Friday       160 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
+Friday       163 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.65% 
 Saturday     122 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
 Sunday       174 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.44%
 
@@ -123,7 +123,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2023 18:58:31 UTC
+ Last Updated on 02/03/2023 18:58:10 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
