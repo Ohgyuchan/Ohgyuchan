@@ -92,19 +92,16 @@ Sunday       174 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     7 mins              ██████████░░░░░░░░░░░░░░░   43.46% 
-Markdown                 7 mins              ██████████░░░░░░░░░░░░░░░   42.28% 
-Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.17% 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.1%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-pebbles                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -121,7 +118,7 @@ JavaScript               2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/03/2023 18:54:15 UTC
+ Last Updated on 10/03/2023 18:52:13 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
