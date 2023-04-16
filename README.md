@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Ohgyuchan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TermanOh&layout=compact&theme=buefy)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C040%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning    169 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
-🌆 Daytime    557 commits    █████████░░░░░░░░░░░░░░░░   39.45% 
-🌃 Evening    584 commits    ██████████░░░░░░░░░░░░░░░   41.36% 
+🌆 Daytime    554 commits    █████████░░░░░░░░░░░░░░░░   39.24% 
+🌃 Evening    587 commits    ██████████░░░░░░░░░░░░░░░   41.57% 
 🌙 Night      102 commits    █░░░░░░░░░░░░░░░░░░░░░░░░   7.22%
 
 ```
@@ -92,17 +92,18 @@ Sunday       195 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     13 mins             ████████████████████████░   98.27% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+Dart                     15 mins             ████████████████████████░   98.39% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  13 mins             █████████████████████████   100.0%
+VS Code                  15 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-pebbles                  13 mins             █████████████████████████   100.0%
+pebbles                  15 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.0%
+Mac                      15 mins             █████████████████████████   100.0%
 
 ```
 
@@ -119,7 +120,7 @@ Jupyter Notebook         2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/04/2023 18:53:48 UTC
+ Last Updated on 16/04/2023 18:51:42 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
