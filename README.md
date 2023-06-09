@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&include_all_commits=true&count_private=true&theme=buefy)
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C092%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C094%20hrs%2042%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.7%20million%20lines%20of%20code-blue)
 
@@ -88,17 +88,17 @@ Sunday                   2469 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Dart                     11 hrs 45 mins      ███████████████████░░░░░░   75.06 % 
-PHP                      3 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-HTML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Dart                     14 hrs 39 mins      ███████████████████░░░░░░   76.00 % 
+PHP                      3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+HTML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 40 mins      █████████████████████████   100.00 % 
+VS Code                  19 hrs 17 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 40 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -114,7 +114,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2023 18:43:51 UTC
+ Last Updated on 09/06/2023 18:45:36 UTC
 <!--END_SECTION:waka-->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ohgyuchan&bg_color=ffffff&color=000000&line=6495ED)](https://github.com/ashutosh00710/github-readme-activity-graph)
