@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ohgyuchan)](https://git.io/streak-stats)
 
-![Ohgyuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&include_all_commits=true&count_private=true&theme=buefy)
+![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C233%20hrs%2049%20mins-blue)
