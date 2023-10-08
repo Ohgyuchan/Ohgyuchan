@@ -52,8 +52,6 @@ Here are some ideas to get you started:
 <!--OPGC-->
 <a href="https://opgc.me/#/users/Ohgyuchan" target="_blank"><img src="https://api.opgc.me/githubs/users/Ohgyuchan/tag/?theme=rainbow" /></a>  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ohgyuchan)](https://git.io/streak-stats)
-
 ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)
   
 <!--START_SECTION:waka-->
