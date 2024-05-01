@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
 
-![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy)
+<!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C871%20hrs%2046%20mins-blue)
