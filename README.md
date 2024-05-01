@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp -->
 </p></b>
 
-<h3 align="center"><b>⚡️ Stats ⚡️</b></h3>
+<!-- <h3 align="center"><b>⚡️ Stats ⚡️</b></h3> -->
 
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
