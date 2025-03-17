@@ -48,46 +48,9 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C831%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C839%20hrs%205%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.6%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1873 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-🌆 Daytime                6432 commits        ██████████░░░░░░░░░░░░░░░   38.72 % 
-🌃 Evening                6709 commits        ██████████░░░░░░░░░░░░░░░   40.39 % 
-🌙 Night                  1598 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3041 commits        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Tuesday                  2565 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Wednesday                2470 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Thursday                 3491 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-Friday                   2320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Saturday                 1259 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Sunday                   1466 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-TypeScript               23 hrs 7 mins       ██████████████████████░░░   87.32 % 
-Prisma                   2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-SQL                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-JavaScript               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-💻 Operating System: 
-Mac                      26 hrs 28 mins      █████████████████████████   100.00 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.7%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Dart** 
 
@@ -102,5 +65,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2025 18:44:55 UTC
+ Last Updated on 17/03/2025 18:46:10 UTC
 <!--END_SECTION:waka-->
