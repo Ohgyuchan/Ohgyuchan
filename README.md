@@ -79,11 +79,10 @@ Sunday                   1530 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               49 mins             ████████████████████████░   94.59 % 
-Dart                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -99,5 +98,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2025 18:55:04 UTC
+ Last Updated on 05/08/2025 18:55:50 UTC
 <!--END_SECTION:waka-->
