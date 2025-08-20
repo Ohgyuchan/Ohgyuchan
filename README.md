@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C000%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C000%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.7%20million%20lines%20of%20code-blue)
 
@@ -79,14 +79,14 @@ Sunday                   1530 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               6 hrs 2 mins        ███████████████░░░░░░░░░░   59.51 % 
-Dart                     3 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
-Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Gradle Kotlin DSL        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+TypeScript               4 hrs 48 mins       █████████████░░░░░░░░░░░░   51.16 % 
+Dart                     4 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.19 % 
+Other                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Gradle Kotlin DSL        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Groovy                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      10 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -102,5 +102,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2025 18:50:31 UTC
+ Last Updated on 20/08/2025 18:49:33 UTC
 <!--END_SECTION:waka-->
