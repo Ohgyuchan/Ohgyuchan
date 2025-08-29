@@ -48,42 +48,9 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C001%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C005%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-38.7%20million%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2463 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-🌆 Daytime                7631 commits        ██████████░░░░░░░░░░░░░░░   38.07 % 
-🌃 Evening                8085 commits        ██████████░░░░░░░░░░░░░░░   40.33 % 
-🌙 Night                  1868 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   3973 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Tuesday                  3060 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Wednesday                3047 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-Thursday                 4172 commits        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-Friday                   2854 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Saturday                 1411 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Sunday                   1530 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Dart                     13 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      13 mins             █████████████████████████   100.00 % 
-```
 
 **I Mostly Code in Dart** 
 
@@ -98,5 +65,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2025 18:48:30 UTC
+ Last Updated on 29/08/2025 18:46:43 UTC
 <!--END_SECTION:waka-->
