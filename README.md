@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C076%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C078%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.1%20million%20lines%20of%20code-blue)
 
@@ -79,10 +79,13 @@ Sunday                   1530 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 14 mins        ███████████████████████░░   92.33 % 
+XML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -98,5 +101,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 18:51:02 UTC
+ Last Updated on 10/10/2025 18:47:50 UTC
 <!--END_SECTION:waka-->
