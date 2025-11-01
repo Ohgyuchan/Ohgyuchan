@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C109%20hrs%2050%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-39.3%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Dart** 
@@ -65,5 +63,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:50:04 UTC
+ Last Updated on 01/11/2025 18:46:16 UTC
 <!--END_SECTION:waka-->
