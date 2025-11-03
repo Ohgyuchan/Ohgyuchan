@@ -53,15 +53,15 @@ Here are some ideas to get you started:
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     47 repos            ███████████░░░░░░░░░░░░░░   43.52 % 
-TypeScript               19 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Dart                     47 repos            ███████████░░░░░░░░░░░░░░   43.12 % 
+TypeScript               20 repos            █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
+JavaScript               8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 
 
 
- Last Updated on 02/11/2025 18:45:52 UTC
+ Last Updated on 03/11/2025 18:48:33 UTC
 <!--END_SECTION:waka-->
