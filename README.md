@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C153%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C153%20hrs%2045%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.0%20million%20lines%20of%20code-blue)
 
@@ -79,14 +79,14 @@ Sunday                   1538 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               14 hrs 23 mins      █████████████████░░░░░░░░   67.01 % 
-Python                   2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Prisma                   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               12 hrs 55 mins      ██████████████████░░░░░░░   73.88 % 
+Prisma                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+HTML                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Other                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Python                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 💻 Operating System: 
-Mac                      21 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -102,5 +102,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2025 18:48:04 UTC
+ Last Updated on 17/11/2025 18:50:38 UTC
 <!--END_SECTION:waka-->
