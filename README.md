@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C263%20hrs%2015%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.46%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in Dart** 
@@ -65,5 +63,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 18:51:26 UTC
+ Last Updated on 03/01/2026 18:52:48 UTC
 <!--END_SECTION:waka-->
