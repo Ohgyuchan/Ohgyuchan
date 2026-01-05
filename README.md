@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C267%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C268%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.46%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.46%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2787 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+🌞 Morning                2790 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 🌆 Daytime                8577 commits        ██████████░░░░░░░░░░░░░░░   38.89 % 
 🌃 Evening                8802 commits        ██████████░░░░░░░░░░░░░░░   39.91 % 
 🌙 Night                  1888 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4458 commits        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Monday                   4461 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 Tuesday                  3537 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Wednesday                3389 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+Wednesday                3389 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
 Thursday                 4433 commits        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Friday                   3274 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   3274 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 Saturday                 1408 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 Sunday                   1555 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 ```
@@ -102,5 +102,5 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:50:54 UTC
+ Last Updated on 05/01/2026 18:54:36 UTC
 <!--END_SECTION:waka-->
