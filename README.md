@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ohgyuchan&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ### Hi there 👋 -->
-  * [VELOG](https://velog.io/@terman)
-
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
