@@ -45,42 +45,9 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C545%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C554%20hrs%204%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.25%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2179 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-🌆 Daytime                7561 commits        ██████████░░░░░░░░░░░░░░░   41.88 % 
-🌃 Evening                6913 commits        ██████████░░░░░░░░░░░░░░░   38.29 % 
-🌙 Night                  1399 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   3354 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
-Tuesday                  3263 commits        █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Wednesday                2708 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Thursday                 3215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Friday                   2759 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Saturday                 1332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-Sunday                   1421 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.37%20million%20lines%20of%20code-blue?style=flat)
 
 **I Mostly Code in Dart** 
 
@@ -95,5 +62,5 @@ Python                   8 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2026 19:08:18 UTC
+ Last Updated on 06/05/2026 19:16:50 UTC
 <!--END_SECTION:waka-->
