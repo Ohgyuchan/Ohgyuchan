@@ -45,7 +45,46 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.39%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C631%20hrs%2034%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-36.49%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2364 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌆 Daytime                8006 commits        ███████████░░░░░░░░░░░░░░   42.18 % 
+🌃 Evening                7210 commits        █████████░░░░░░░░░░░░░░░░   37.99 % 
+🌙 Night                  1399 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3653 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+Tuesday                  3385 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Wednesday                2926 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Thursday                 3273 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Friday                   2930 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Saturday                 1332 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Sunday                   1480 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Python                   4 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Markdown                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+TypeScript               2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Dart                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Other                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+
+💻 Operating System: 
+Mac                      14 hrs 2 mins       █████████████████████████   100.00 % 
+```
 
 **I Mostly Code in Dart** 
 
@@ -60,5 +99,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2026 18:58:44 UTC
+ Last Updated on 18/05/2026 19:17:01 UTC
 <!--END_SECTION:waka-->
