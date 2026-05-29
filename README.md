@@ -45,7 +45,42 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C631%20hrs%2034%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.02%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2652 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+🌆 Daytime                8840 commits        ███████████░░░░░░░░░░░░░░   43.54 % 
+🌃 Evening                7411 commits        █████████░░░░░░░░░░░░░░░░   36.50 % 
+🌙 Night                  1399 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3799 commits        █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+Tuesday                  3779 commits        █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Wednesday                3007 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+Thursday                 3534 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Friday                   3283 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Saturday                 1383 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Sunday                   1517 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Dart** 
 
@@ -60,5 +95,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:36:00 UTC
+ Last Updated on 29/05/2026 19:33:43 UTC
 <!--END_SECTION:waka-->
