@@ -49,6 +49,43 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-49.29%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11341 commits       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+🌆 Daytime                29135 commits       ████████████░░░░░░░░░░░░░   46.97 % 
+🌃 Evening                18066 commits       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+🌙 Night                  3482 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   13006 commits       █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+Tuesday                  12470 commits       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Wednesday                9177 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Thursday                 9742 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   9956 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Saturday                 4883 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+Sunday                   2790 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 10 hrs 28 mins      ████████░░░░░░░░░░░░░░░░░   33.68 % 
+TypeScript               8 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Dart                     4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Bash                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+
+💻 Operating System: 
+Mac                      31 hrs 7 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -62,5 +99,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:13:06 UTC
+ Last Updated on 25/07/2026 19:58:17 UTC
 <!--END_SECTION:waka-->
