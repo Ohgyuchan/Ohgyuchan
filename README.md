@@ -55,17 +55,17 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                11939 commits       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-🌆 Daytime                30595 commits       ████████████░░░░░░░░░░░░░   47.14 % 
-🌃 Evening                18801 commits       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌆 Daytime                30596 commits       ████████████░░░░░░░░░░░░░   47.14 % 
+🌃 Evening                18802 commits       ███████░░░░░░░░░░░░░░░░░░   28.97 % 
 🌙 Night                  3563 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   13543 commits       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-Tuesday                  13206 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+Tuesday                  13208 commits       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
 Wednesday                9605 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Thursday                 10186 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Thursday                 10186 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
 Friday                   10496 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 Saturday                 5018 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
 Sunday                   2844 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
@@ -78,39 +78,38 @@ Sunday                   2844 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               9 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
-Markdown                 7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   30.65 % 
-Other                    2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-SQL                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Dart                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               7 hrs 9 mins        █████████████░░░░░░░░░░░░   50.46 % 
+Markdown                 4 hrs               ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+SQL                      1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Python                   17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 💻 Operating System: 
-Mac                      24 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 1 min (99.48%)
+⏱ AI Coding Time: 14 hrs 5 mins (99.26%)
 
-✍️ 56,828 lines written by AI, 69 lines written by hand (99.88% AI-written)
+✍️ 31,443 lines written by AI, 58 lines written by hand (99.82% AI-written)
 
-🔤 1,927,401,474 Input Tokens, 5,913,820 Output Tokens
+🔤 1,185,282,790 Input Tokens, 3,070,677 Output Tokens
 
-💵 $8437.00 Estimated AI Cost This Week
+💵 $4997.61 Estimated AI Cost This Week
 
-🧠 34 AI Sessions, 250 AI Prompts
+🧠 24 AI Sessions, 139 AI Prompts
 
-Opus                     39,292 lines        ██████████████████░░░░░░░   70.41 % 
-Sonnet                   16,345 lines        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Haiku                    166 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Opus                     23,764 lines        ████████████████████░░░░░   78.85 % 
+Sonnet                   6,373 lines         █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.88% of written lines came from AI
-📚 Verbose Prompter — average 1,533 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.82% of written lines came from AI
+📄 Detailed Prompter — average 1,485 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -126,5 +125,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 20:30:33 UTC
+ Last Updated on 04/08/2026 20:27:32 UTC
 <!--END_SECTION:waka-->
