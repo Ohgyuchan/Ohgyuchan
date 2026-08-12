@@ -54,9 +54,9 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13900 commits       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-🌆 Daytime                34706 commits       ████████████░░░░░░░░░░░░░   47.13 % 
-🌃 Evening                21070 commits       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+🌞 Morning                13902 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+🌆 Daytime                34706 commits       ████████████░░░░░░░░░░░░░   47.12 % 
+🌃 Evening                21072 commits       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
 🌙 Night                  3969 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ```text
 Monday                   15540 commits       █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 Tuesday                  15279 commits       █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Wednesday                11044 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                11048 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Thursday                 11366 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 Friday                   11641 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 Saturday                 5694 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
@@ -78,38 +78,38 @@ Sunday                   3081 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-TypeScript               5 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
-Python                   2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-HTML                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Other                    1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Markdown                 5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+TypeScript               4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
+Python                   2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Other                    1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+JavaScript               1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
 
 💻 Operating System: 
-Mac                      22 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 25 mins (99.11%)
+⏱ AI Coding Time: 20 hrs 40 mins (99.04%)
 
-✍️ 49,574 lines written by AI, 17 lines written by hand (99.97% AI-written)
+✍️ 53,638 lines written by AI, 20 lines written by hand (99.96% AI-written)
 
-🔤 428,272,514 Input Tokens, 5,023,750 Output Tokens
+🔤 265,936,097 Input Tokens, 5,119,347 Output Tokens
 
-💵 $2373.49 Estimated AI Cost This Week
+💵 $2654.29 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 410 AI Prompts
+🧠 44 AI Sessions, 390 AI Prompts
 
-Opus                     34,765 lines        ██████████████████░░░░░░░   73.79 % 
-Sonnet                   5,596 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Fable                    4,842 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Haiku                    1,912 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Opus                     40,736 lines        ███████████████████░░░░░░   74.01 % 
+Fable                    7,352 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Sonnet                   5,038 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Haiku                    1,912 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📚 Verbose Prompter — average 3,379 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 3,554 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -127,5 +127,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:58:43 UTC
+ Last Updated on 12/08/2026 20:02:21 UTC
 <!--END_SECTION:waka-->
