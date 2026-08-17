@@ -51,69 +51,6 @@ Here are some ideas to get you started:
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.01%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                13921 commits       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
-🌆 Daytime                34717 commits       ████████████░░░░░░░░░░░░░   47.12 % 
-🌃 Evening                21073 commits       ███████░░░░░░░░░░░░░░░░░░   28.60 % 
-🌙 Night                  3969 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   15540 commits       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-Tuesday                  15279 commits       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
-Wednesday                11048 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-Thursday                 11392 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Friday                   11646 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Saturday                 5694 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Sunday                   3081 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-Markdown                 5 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   31.73 % 
-TypeScript               3 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
-Python                   2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Other                    1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-
-💻 Operating System: 
-Mac                      16 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 26 mins (99.65%)
-
-✍️ 39,145 lines written by AI, 9 lines written by hand (99.98% AI-written)
-
-🔤 32,373,087 Input Tokens, 4,860,227 Output Tokens
-
-💵 $1267.71 Estimated AI Cost This Week
-
-🧠 39 AI Sessions, 301 AI Prompts
-
-Opus                     24,379 lines        ███████████████░░░░░░░░░░   58.86 % 
-Fable                    10,090 lines        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Sonnet                   5,038 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Haiku                    1,912 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 4,195 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text
@@ -127,5 +64,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 19:12:08 UTC
+ Last Updated on 17/08/2026 19:26:08 UTC
 <!--END_SECTION:waka-->
