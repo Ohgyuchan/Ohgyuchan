@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C946%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C950%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-590%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-594%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,39 +78,39 @@ Sunday                   3093 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 12 hrs 5 mins       ███████████░░░░░░░░░░░░░░   44.89 % 
-Python                   4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-Dart                     4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-TypeScript               2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+Markdown                 12 hrs 58 mins      ████████████░░░░░░░░░░░░░   48.10 % 
+Dart                     4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Python                   2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+TypeScript               2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Other                    1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 💻 Operating System: 
-Mac                      26 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 55 mins (99.98%)
+⏱ AI Coding Time: 26 hrs 58 mins (99.98%)
 
-✍️ 21,325 lines written by AI, 20 lines written by hand (99.91% AI-written)
+✍️ 17,783 lines written by AI, 20 lines written by hand (99.89% AI-written)
 
-🔤 22,439,960 Input Tokens, 5,144,487 Output Tokens
+🔤 28,494,023 Input Tokens, 5,093,656 Output Tokens
 
-💵 $1091.82 Estimated AI Cost This Week
+💵 $1177.19 Estimated AI Cost This Week
 
-🧠 54 AI Sessions, 422 AI Prompts
+🧠 46 AI Sessions, 417 AI Prompts
 
-Fable                    12,718 lines        ███████████████░░░░░░░░░░   59.03 % 
-Opus                     8,753 lines         ██████████░░░░░░░░░░░░░░░   40.63 % 
-Sonnet                   74 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Opus                     7,934 lines         ███████████░░░░░░░░░░░░░░   44.07 % 
+Fable                    6,705 lines         █████████░░░░░░░░░░░░░░░░   37.24 % 
+Sonnet                   3,365 lines         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📄 Detailed Prompter — average 1,205 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🤖 AI-Driven — 99.89% of written lines came from AI
+📄 Detailed Prompter — average 936 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -126,5 +126,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:23:31 UTC
+ Last Updated on 30/08/2026 21:44:01 UTC
 <!--END_SECTION:waka-->
