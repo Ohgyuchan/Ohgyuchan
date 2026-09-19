@@ -78,40 +78,40 @@ Sunday                   3150 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   13 hrs 58 mins      ███████████░░░░░░░░░░░░░░   42.78 % 
-Markdown                 13 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   39.93 % 
-Other                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Python                   13 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.78 % 
+Markdown                 11 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.38 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 
 💻 Operating System: 
-Mac                      32 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 32 hrs 38 mins (99.95%)
+⏱ AI Coding Time: 29 hrs 36 mins (99.95%)
 
-✍️ 32,597 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 27,683 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 39,399,532 Input Tokens, 6,303,719 Output Tokens
+🔤 34,900,037 Input Tokens, 5,546,941 Output Tokens
 
-💵 $2027.28 Estimated AI Cost This Week
+💵 $1874.55 Estimated AI Cost This Week
 
-🧠 80 AI Sessions, 298 AI Prompts
+🧠 60 AI Sessions, 251 AI Prompts
 
-Opus                     10,103 lines        ████████░░░░░░░░░░░░░░░░░   30.93 % 
-Fable                    9,539 lines         ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-Sonnet                   6,276 lines         █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-GPT                      5,187 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Haiku                    1,190 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Opus                     9,491 lines         █████████░░░░░░░░░░░░░░░░   34.20 % 
+Fable                    8,246 lines         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+Sonnet                   6,276 lines         ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
+GPT                      2,171 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+Haiku                    1,190 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,556 characters per prompt
+📚 Verbose Prompter — average 1,574 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -127,5 +127,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 21:28:06 UTC
+ Last Updated on 19/09/2026 21:11:48 UTC
 <!--END_SECTION:waka-->
