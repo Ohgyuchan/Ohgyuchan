@@ -78,28 +78,28 @@ Sunday                   3150 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   13 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.78 % 
-Markdown                 11 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.38 % 
-Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python                   12 hrs 55 mins      ███████████░░░░░░░░░░░░░░   44.12 % 
+Markdown                 11 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
+Other                    1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Text                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Mac                      29 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 36 mins (99.95%)
+⏱ AI Coding Time: 29 hrs 15 mins (99.95%)
 
 ✍️ 27,683 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,900,037 Input Tokens, 5,546,941 Output Tokens
+🔤 34,754,128 Input Tokens, 5,535,150 Output Tokens
 
-💵 $1874.55 Estimated AI Cost This Week
+💵 $1865.53 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 251 AI Prompts
+🧠 57 AI Sessions, 251 AI Prompts
 
 Opus                     9,491 lines         █████████░░░░░░░░░░░░░░░░   34.20 % 
 Fable                    8,246 lines         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
@@ -127,5 +127,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 19/09/2026 21:11:48 UTC
+ Last Updated on 20/09/2026 21:19:59 UTC
 <!--END_SECTION:waka-->
