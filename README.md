@@ -78,36 +78,16 @@ Sunday                   3158 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          ███████████████░░░░░░░░░░   60.19 % 
-Python                   29 mins             ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-Other                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 42 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 42 mins (100.0%)
-
-✍️ 176 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,068,719 Input Tokens, 186,664 Output Tokens
-
-💵 $49.70 Estimated AI Cost This Week
-
-🧠 7 AI Sessions, 29 AI Prompts
-
-Opus                     176 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 612 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -123,5 +103,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:56:39 UTC
+ Last Updated on 23/09/2026 22:01:07 UTC
 <!--END_SECTION:waka-->
