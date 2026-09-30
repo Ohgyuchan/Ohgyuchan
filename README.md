@@ -45,16 +45,16 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C999%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C004%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-646%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-651%20hrs%2053%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.96%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14145 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
+🌞 Morning                14147 commits       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
 🌆 Daytime                35392 commits       ████████████░░░░░░░░░░░░░   47.31 % 
 🌃 Evening                21269 commits       ███████░░░░░░░░░░░░░░░░░░   28.43 % 
 🌙 Night                  4008 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ```text
 Monday                   15866 commits       █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 Tuesday                  15369 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Wednesday                11261 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Wednesday                11263 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Thursday                 11605 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 Friday                   11799 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Saturday                 5756 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
@@ -78,38 +78,38 @@ Sunday                   3158 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 7 hrs 48 mins       ████████████░░░░░░░░░░░░░   46.69 % 
-Python                   2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Dart                     1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Text                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Other                    1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Markdown                 7 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   37.50 % 
+Python                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+TypeScript               2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Dart                     2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Text                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Mac                      16 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      19 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 40 mins (99.62%)
+⏱ AI Coding Time: 19 hrs 41 mins (99.6%)
 
-✍️ 11,896 lines written by AI, 19 lines written by hand (99.84% AI-written)
+✍️ 19,603 lines written by AI, 19 lines written by hand (99.9% AI-written)
 
-🔤 11,072,537 Input Tokens, 1,995,745 Output Tokens
+🔤 13,984,037 Input Tokens, 2,958,492 Output Tokens
 
-💵 $268.73 Estimated AI Cost This Week
+💵 $337.50 Estimated AI Cost This Week
 
-🧠 62 AI Sessions, 216 AI Prompts
+🧠 59 AI Sessions, 266 AI Prompts
 
-Opus                     8,554 lines         ██████████████████░░░░░░░   70.78 % 
-GPT                      3,531 lines         ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+Opus                     16,996 lines        █████████████████████░░░░   85.57 % 
+GPT                      2,866 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.84% of written lines came from AI
-📚 Verbose Prompter — average 2,819 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.9% of written lines came from AI
+📄 Detailed Prompter — average 1,149 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -125,5 +125,5 @@ HTML                     9 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:52:03 UTC
+ Last Updated on 30/09/2026 22:51:23 UTC
 <!--END_SECTION:waka-->
