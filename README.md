@@ -54,18 +54,18 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14449 commits       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-🌆 Daytime                36293 commits       ████████████░░░░░░░░░░░░░   47.64 % 
-🌃 Evening                21427 commits       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
+🌞 Morning                14450 commits       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+🌆 Daytime                36295 commits       ████████████░░░░░░░░░░░░░   47.64 % 
+🌃 Evening                21428 commits       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
 🌙 Night                  4008 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   15890 commits       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Tuesday                  15529 commits       █████░░░░░░░░░░░░░░░░░░░░   20.39 % 
+Monday                   15891 commits       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Tuesday                  15529 commits       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
 Wednesday                11717 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Thursday                 12172 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Thursday                 12175 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 Friday                   11935 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
 Saturday                 5776 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 Sunday                   3158 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
@@ -78,54 +78,53 @@ Sunday                   3158 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               8 hrs 21 mins       ████████████░░░░░░░░░░░░░   47.65 % 
-Markdown                 3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Python                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
-Other                    1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
-Text                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+TypeScript               3 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   38.74 % 
+Python                   2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Markdown                 1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Other                    50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Mac                      17 hrs 32 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 31 mins (99.88%)
+⏱ AI Coding Time: 9 hrs 24 mins (100.0%)
 
-✍️ 17,946 lines written by AI, 213 lines written by hand (98.83% AI-written)
+✍️ 12,339 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 16,142,064 Input Tokens, 3,118,004 Output Tokens
+🔤 9,002,777 Input Tokens, 1,635,634 Output Tokens
 
-💵 $449.83 Estimated AI Cost This Week
+💵 $248.97 Estimated AI Cost This Week
 
-🧠 74 AI Sessions, 301 AI Prompts
+🧠 54 AI Sessions, 201 AI Prompts
 
-GPT                      10,711 lines        ███████████████░░░░░░░░░░   59.54 % 
-Opus                     7,278 lines         ██████████░░░░░░░░░░░░░░░   40.46 % 
+GPT                      10,640 lines        ██████████████████████░░░   86.22 % 
+Opus                     1,700 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.83% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 188 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.17% of changed lines were hand-edited
+🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     51 repos            █████████░░░░░░░░░░░░░░░░   36.43 % 
-TypeScript               40 repos            ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Dart                     51 repos            █████████░░░░░░░░░░░░░░░░   36.17 % 
+TypeScript               41 repos            ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+Python                   10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+HTML                     9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 
 
 
 
- Last Updated on 07/10/2026 23:33:50 UTC
+ Last Updated on 08/10/2026 23:49:47 UTC
 <!--END_SECTION:waka-->
