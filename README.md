@@ -45,28 +45,28 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C023%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C024%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-672%20hrs%2029%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-674%20hrs%2015%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.83%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15842 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-🌆 Daytime                39138 commits       ████████████░░░░░░░░░░░░░   48.03 % 
-🌃 Evening                22494 commits       ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+🌞 Morning                15858 commits       █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+🌆 Daytime                39141 commits       ████████████░░░░░░░░░░░░░   48.01 % 
+🌃 Evening                22514 commits       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
 🌙 Night                  4008 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   16118 commits       █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Tuesday                  17020 commits       █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-Wednesday                13161 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Thursday                 13630 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Friday                   12488 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Monday                   16140 commits       █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Tuesday                  17036 commits       █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+Wednesday                13161 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 13631 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Friday                   12488 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 Saturday                 5778 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 Sunday                   3287 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 ```
@@ -78,36 +78,36 @@ Sunday                   3287 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-TypeScript               6 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.81 % 
-Other                    5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.15 % 
-Markdown                 2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Python                   2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
-Dart                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Python                   3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+Markdown                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Other                    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+TypeScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
+Dart                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 💻 Operating System: 
-Mac                      19 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 28 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 12 mins (100.0%)
 
-✍️ 8,340 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 11,840 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 8,485,651 Input Tokens, 1,841,410 Output Tokens
+🔤 6,678,295 Input Tokens, 1,490,701 Output Tokens
 
-💵 $181.99 Estimated AI Cost This Week
+💵 $163.30 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 332 AI Prompts
+🧠 37 AI Sessions, 215 AI Prompts
 
-Opus                     8,867 lines         █████████████████████████   99.77 % 
-Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Opus                     12,830 lines        █████████████████████████   99.84 % 
+Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 632 characters per prompt
+📄 Detailed Prompter — average 782 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -125,5 +125,5 @@ HTML                     11 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 23:11:44 UTC
+ Last Updated on 27/10/2026 22:51:35 UTC
 <!--END_SECTION:waka-->
