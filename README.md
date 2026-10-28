@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 <!-- ![Terman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ohgyuchan&count_private=true&show_icons=true&theme=buefy) -->
   
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C024%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C031%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-674%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-681%20hrs%2021%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.86%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,36 +78,36 @@ Sunday                   3287 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   3 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Markdown                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
-Other                    2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-TypeScript               2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Dart                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Markdown                 4 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.40 % 
+Dart                     3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Python                   2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Other                    2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+TypeScript               2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
 
 💻 Operating System: 
-Mac                      13 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 12 mins (100.0%)
+⏱ AI Coding Time: 16 hrs 27 mins (100.0%)
 
-✍️ 11,840 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 22,414 lines written by AI, 1 lines written by hand (100.0% AI-written)
 
-🔤 6,678,295 Input Tokens, 1,490,701 Output Tokens
+🔤 9,016,626 Input Tokens, 2,233,401 Output Tokens
 
-💵 $163.30 Estimated AI Cost This Week
+💵 $201.76 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 215 AI Prompts
+🧠 38 AI Sessions, 242 AI Prompts
 
-Opus                     12,830 lines        █████████████████████████   99.84 % 
-Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Opus                     25,057 lines        █████████████████████████   99.92 % 
+Fable                    20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 782 characters per prompt
+📄 Detailed Prompter — average 566 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -125,5 +125,5 @@ HTML                     11 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 22:51:35 UTC
+ Last Updated on 28/10/2026 23:05:59 UTC
 <!--END_SECTION:waka-->
